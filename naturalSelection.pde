@@ -1,6 +1,6 @@
 //
 //Natural Selection Experiment
-//Copyright (c) Rolando Charles 2020
+//Copyright (c) 2020 Rolando Charles
 //
 
 import java.text.DecimalFormat;
