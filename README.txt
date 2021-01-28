@@ -7,4 +7,3 @@ Use the config file to modify global variables and settings thus changing the si
 All the files are commented where necessary (and possible).
 
 This program is free to use, modify or improve.
-Rolando Charles
